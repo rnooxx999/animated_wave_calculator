@@ -1,16 +1,18 @@
 # animated_wave_calculator
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### **A Beautiful Calculator** 
 
-A few resources to get you started if this is your first Flutter project:
+-simple purple calculator UI
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+-shown how to add a **flare** animation in flutter app simply 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-animation glowing play buttons
+
+-not updated to null safety cause 
+
+-calculating results
+
+https://user-images.githubusercontent.com/51720992/179123644-08723653-ec44-41fe-881b-0685e6d26b2a.mov
+
